@@ -6,7 +6,7 @@ The following Mermaid diagram illustrates the integration of custom APIs, custom
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#0078D4', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#FFB900', 'background':'#ffffff'}}}%%
 flowchart TD
-    subgraph Custom_API["Custom API (SocGen APIs)"]
+    subgraph Custom_API["Custom API"]
         C1[Internal API]
     end
 
