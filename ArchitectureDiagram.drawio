@@ -187,9 +187,6 @@
         <mxCell id="Of06rXtQwyT8jazibSlD-95" value="DATA VERSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="913.5" y="400.5" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Of06rXtQwyT8jazibSlD-98" value="(webhook url)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="539" y="490" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Of06rXtQwyT8jazibSlD-105" value="RESPONSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="554" y="254.89000000000001" width="50" height="30" as="geometry" />
         </mxCell>
@@ -326,6 +323,18 @@
               <mxPoint x="773" y="112" />
               <mxPoint x="773" y="112" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Of06rXtQwyT8jazibSlD-181" value="RESPONSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="130.20999999999998" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Of06rXtQwyT8jazibSlD-182" value="RESPONSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="346.11" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Of06rXtQwyT8jazibSlD-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="636.48" y="352.15999999999997" as="sourcePoint" />
+            <mxPoint x="538" y="352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
