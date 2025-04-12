@@ -11,7 +11,7 @@
           <mxGeometry x="617" y="39" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Of06rXtQwyT8jazibSlD-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="814.5" y="183.9" width="113" height="70" as="geometry" />
+          <mxGeometry x="814.5" y="183.9" width="113" height="66.1" as="geometry" />
         </mxCell>
         <mxCell id="Of06rXtQwyT8jazibSlD-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerAutomate.svg;" vertex="1" parent="1">
           <mxGeometry x="821.4300000000002" y="197" width="39.15" height="31" as="geometry" />
@@ -34,14 +34,6 @@
         </mxCell>
         <mxCell id="Of06rXtQwyT8jazibSlD-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerAutomate.svg;" vertex="1" parent="1">
           <mxGeometry x="882.6500000000001" y="196" width="39.31" height="31.13" as="geometry" />
-        </mxCell>
-        <mxCell id="Of06rXtQwyT8jazibSlD-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Of06rXtQwyT8jazibSlD-17" target="Of06rXtQwyT8jazibSlD-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="770" y="225" />
-              <mxPoint x="770" y="225" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Of06rXtQwyT8jazibSlD-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="634.52" y="186" width="120" height="70" as="geometry" />
@@ -166,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Of06rXtQwyT8jazibSlD-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="811" y="90.21000000000001" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="90.21" width="111" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Of06rXtQwyT8jazibSlD-85" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/AIBuilder.svg;" vertex="1" parent="1">
           <mxGeometry x="826" y="98" width="30" height="30" as="geometry" />
@@ -256,7 +248,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Of06rXtQwyT8jazibSlD-151" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="815.58" y="292.45" width="113" height="70" as="geometry" />
+          <mxGeometry x="815.58" y="292.45" width="113" height="67.55" as="geometry" />
         </mxCell>
         <mxCell id="Of06rXtQwyT8jazibSlD-152" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/CopilotStudio.svg;" vertex="1" parent="1">
           <mxGeometry x="821.43" y="303" width="31.64" height="29" as="geometry" />
@@ -313,6 +305,26 @@
             <Array as="points">
               <mxPoint x="769" y="330" />
               <mxPoint x="769" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Of06rXtQwyT8jazibSlD-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753" y="220" as="sourcePoint" />
+            <mxPoint x="818" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="768" y="220" />
+              <mxPoint x="768" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Of06rXtQwyT8jazibSlD-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="758" y="112" as="sourcePoint" />
+            <mxPoint x="823" y="112" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="773" y="112" />
+              <mxPoint x="773" y="112" />
             </Array>
           </mxGeometry>
         </mxCell>
