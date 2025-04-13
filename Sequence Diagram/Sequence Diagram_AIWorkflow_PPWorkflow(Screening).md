@@ -17,7 +17,7 @@ sequenceDiagram
     AI->>AI: Perform Basic Validations
 
     %% Document processing pipeline
-    AI->>WDG: Process Document (Blurr, Model Workers, Templates)
+    AI->>WDG: Process Document (Workers, Templates)
     WDG-->>AI: Return Document Extractions
     AI->>AZ: Save Document Extractions
 ```
@@ -52,7 +52,7 @@ sequenceDiagram
 2. **AI Workflow**:
    - Accesses the Document System using the provided metadata.
    - Performs basic validations on the document data.
-   - Processes the document using widgets (Blurr, Model Workers, Templates).
+   - Processes the document using widgets (Workers, Templates).
    - Saves the document extractions to Azure Storage.
    - Calls the custom connector to trigger the Power Platform workflow with the screening request payload.
    - Fetches the workflow completion notification and screening response from the Power Platform workflow.
@@ -63,7 +63,7 @@ sequenceDiagram
    - Provides document data based on the metadata.
 
 4. **Widgets (Document Processing Pipeline)**:
-   - Processes the document using various tools like Blurr, Model Workers, and Templates.
+   - Processes the document using various tools like Workers, and Templates.
 
 5. **Azure Storage**:
    - Stores document extractions and screening responses.
