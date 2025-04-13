@@ -1,22 +1,38 @@
 # Sequence Diagram: AI Workflow and Power Automate workflow integration via Power Platform
 
+## Part 1: AI Workflow and Document Processing
+
 ```mermaid
 sequenceDiagram
     participant CSM as Consumer
     participant AI as AI Workflow
     participant DS as Document System
-    participant WDG as Widgets (Document Processing Pipeline)
+    participant WDG as Widgets (Processing Pipeline)
     participant AZ as Azure Storage
-    participant CC as Custom Connector
-    participant PP as Power Platform Workflow(Screening)
 
+    %% Consumer initiates the process
     CSM->>AI: HTTP POST (Document Metadata)
     AI->>DS: Access Document System with Metadata
     DS-->>AI: Return Document Data
     AI->>AI: Perform Basic Validations
+
+    %% Document processing pipeline
     AI->>WDG: Process Document (Blurr, Model Workers, Templates)
     WDG-->>AI: Return Document Extractions
     AI->>AZ: Save Document Extractions
+```
+
+## Part 2: Power Platform Workflow Integration
+
+```mermaid
+sequenceDiagram
+    participant AI as AI Workflow
+    participant CC as Custom Connector
+    participant PP as Power Platform Workflow(Screening)
+    participant AZ as Azure Storage
+    participant CSM as Consumer
+
+    %% Power Platform workflow integration
     AI->>CC: Trigger Power Platform Workflow (Screening Request Payload)
     CC->>PP: Trigger Workflow
     PP-->>CC: Notify Completion
@@ -24,6 +40,8 @@ sequenceDiagram
     AI->>PP: Fetch Screening Response
     PP-->>AI: Return Screening Response
     AI->>AZ: Save Screening Response
+
+    %% Final response to Consumer
     AI-->>CSM: Return Constructed Response (Document Extractions + Screening Response)
 ```
 
