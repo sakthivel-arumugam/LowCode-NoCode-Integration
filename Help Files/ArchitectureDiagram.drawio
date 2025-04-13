@@ -46,14 +46,8 @@
         <mxCell id="Of06rXtQwyT8jazibSlD-136" value="Custom Connectors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="638.48" y="254.32" width="110" height="25.68" as="geometry" />
         </mxCell>
-        <mxCell id="Of06rXtQwyT8jazibSlD-137" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.connectors" parent="1" vertex="1">
-          <mxGeometry x="640.48" y="232.32" width="32.35" height="22" as="geometry" />
-        </mxCell>
         <mxCell id="Of06rXtQwyT8jazibSlD-138" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.connectors" parent="1" vertex="1">
-          <mxGeometry x="672.83" y="234.25" width="32.35" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="Of06rXtQwyT8jazibSlD-139" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.connectors" parent="1" vertex="1">
-          <mxGeometry x="706.7" y="232.32" width="32.35" height="22" as="geometry" />
+          <mxGeometry x="680.83" y="232.5" width="32.35" height="22" as="geometry" />
         </mxCell>
         <mxCell id="Of06rXtQwyT8jazibSlD-152" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/CopilotStudio.svg;" parent="1" vertex="1">
           <mxGeometry x="950" y="183.32" width="31.64" height="29" as="geometry" />
