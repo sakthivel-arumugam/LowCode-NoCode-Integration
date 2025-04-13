@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12">
   <diagram name="Page-1" id="-ZEGbbb4KFgpcQj7vi7V">
-    <mxGraphModel dx="1322" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,12 @@
             <mxPoint x="818" y="357.5525" as="sourcePoint" />
             <mxPoint x="757.04" y="357.99" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HQ15xexRkoWoYU7XNOma-1" value="MAXX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="935.8199999999999" y="345.48" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ15xexRkoWoYU7XNOma-2" value="TABLEAU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="936" y="375" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
