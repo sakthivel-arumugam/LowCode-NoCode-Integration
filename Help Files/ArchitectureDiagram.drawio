@@ -175,10 +175,10 @@
             <mxPoint x="757.04" y="357.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQ15xexRkoWoYU7XNOma-1" value="MAXX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HQ15xexRkoWoYU7XNOma-1" value="MAXX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="935.8199999999999" y="345.48" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HQ15xexRkoWoYU7XNOma-2" value="TABLEAU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HQ15xexRkoWoYU7XNOma-2" value="TABLEAU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="936" y="375" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
